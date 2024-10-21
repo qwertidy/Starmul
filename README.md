@@ -38,20 +38,28 @@
 
 5、繪製「登入註冊」模組的順序圖；
 
-![image](https://github.com/qwertidy/Starmul/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-20%20114710.png)
-
-![image](https://github.com/qwertidy/Starmul/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-20%20121030.png)
-
-![image](https://github.com/qwertidy/Starmul/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-20%20121036.png)
-
-![image](https://github.com/qwertidy/Starmul/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-20%20214747.png)
-
-![image](https://github.com/qwertidy/Starmul/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-21%20162057.png)
-
-![image](https://github.com/qwertidy/Starmul/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-21%20164800.png)
-
-
 6、繪製「登入註冊」模組的活動圖；
 
 五、繪製用例圖
 </h2>
+
+
+
+![image](https://github.com/qwertidy/Starmul/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-20%20114710.png)
+
+![image](https://github.com/qwertidy/Starmul/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-20%20121030.png)
+<h2>六、繪製類別圖</h2>
+
+![image](https://github.com/qwertidy/Starmul/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-20%20121036.png)
+<h2>七、繪製狀態圖</h2>
+
+![image](https://github.com/qwertidy/Starmul/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-20%20214747.png)
+<h2>八、繪製順序圖</h2>
+
+![image](https://github.com/qwertidy/Starmul/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-21%20162057.png)
+<h2>九、繪製活動圖</h2>
+
+![image](https://github.com/qwertidy/Starmul/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-21%20164800.png)
+
+
+<h2>資料來源 : https://www.cnblogs.com/yibo886/p/18146044</h2>
